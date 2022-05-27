@@ -20,3 +20,7 @@ The attribute `data-count-start` is also required, value can be 1.
 ```
 
 The script is invoked automatically on all elements containing the aforementioned classes.
+
+## Options
+
+The class `compact` will round larger numbers over 1000 to values such as 1K or 1M. If it is omitted, the exact number is displayed.
